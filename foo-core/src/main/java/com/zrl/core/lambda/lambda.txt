@@ -1,0 +1,2 @@
+说明：本目录用于学习些lambda相关的代码用
+学习文章链接：https://www.cnblogs.com/snowInPluto/p/5981400.html
